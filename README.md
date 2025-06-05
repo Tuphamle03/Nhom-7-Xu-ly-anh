@@ -35,7 +35,11 @@ xác suất. Kết quả được hiển thị trực quan hoặc lưu ra tệp 
 -Đánh giá mô hình: Tính toán các chỉ số hiệu suất: mAP (mean Average Precision),
 Precision, Recall, F1-score,... và trực quan hóa kết quả qua biểu đồ.
 
+💡Kết quả
+
 ![xử lý ảnh 5](https://github.com/user-attachments/assets/1ef41a6b-acf2-4611-9a7d-a24fa2eb3add)
+
+![xử lý ảnh 8](https://github.com/user-attachments/assets/28fa8d21-a12c-4cdc-9a78-358bcfbf4000)
 
 💡Mục tiêu
 
